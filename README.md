@@ -1,1 +1,1 @@
-Work at Red Hat/IBM and focus on Node.js.
+Work at Red Hat/IBM, currently on a leave of absence to study IoT.
