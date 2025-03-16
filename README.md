@@ -1,1 +1,1 @@
-Currently taking a few months off to study AI/ML. Notes/examples in [learning-ai](https://github.com/danbev/learning-ai/?tab=readme-ov-file#learning-ai), and contributing to [llama.cpp](https://github.com/ggml-org/llama.cpp).
+
